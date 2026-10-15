@@ -19,8 +19,8 @@
   },
   "homepage": "https://github.com/PlainWhiteRice/Training-Repository#readme",
   "dependencies": {
-    "cowsay": "^1.6.0"
-  }
+  "cowsay": "^1.6.0"
+  },
   "scripts": {
   "test": "node index.js"
 }
