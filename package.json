@@ -1,4 +1,9 @@
-{
+"dependencies": {
+  "cowsay": "^1.6.0"
+},
+"scripts": {
+  "test": "node index.js"
+}{
   "name": "training-repository",
   "version": "1.0.0",
   "description": "TESTING IDEA",
