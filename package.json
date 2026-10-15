@@ -1,0 +1,24 @@
+{
+  "name": "training-repository",
+  "version": "1.0.0",
+  "description": "TESTING IDEA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PlainWhiteRice/Training-Repository.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/PlainWhiteRice/Training-Repository/issues"
+  },
+  "homepage": "https://github.com/PlainWhiteRice/Training-Repository#readme",
+  "dependencies": {
+    "cowsay": "^1.6.0"
+  }
+}

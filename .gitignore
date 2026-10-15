@@ -1,3 +1,4 @@
 *.log
 secret_config.json
 build/
+node_modules/
